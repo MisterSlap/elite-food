@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/elite-food/static/css/main.99fa553c.css",
-    "main.js": "/elite-food/static/js/main.23dce4b6.js",
+    "main.js": "/elite-food/static/js/main.8f5ac100.js",
     "static/js/787.a878762a.chunk.js": "/elite-food/static/js/787.a878762a.chunk.js",
     "static/media/registration.jpg": "/elite-food/static/media/registration.07f71336782d5c869aa9.jpg",
     "index.html": "/elite-food/index.html",
     "main.99fa553c.css.map": "/elite-food/static/css/main.99fa553c.css.map",
-    "main.23dce4b6.js.map": "/elite-food/static/js/main.23dce4b6.js.map",
+    "main.8f5ac100.js.map": "/elite-food/static/js/main.8f5ac100.js.map",
     "787.a878762a.chunk.js.map": "/elite-food/static/js/787.a878762a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99fa553c.css",
-    "static/js/main.23dce4b6.js"
+    "static/js/main.8f5ac100.js"
   ]
 }
